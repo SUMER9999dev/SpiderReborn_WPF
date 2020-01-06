@@ -1,0 +1,60 @@
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe.config
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.pdb
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csprojAssemblyReference.cache
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\App.g.cs
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.cache
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.lref
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.g.resources
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.Properties.Resources.resources
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.GenerateResource.cache
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.exe
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.pdb
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.g.cs
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.baml
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\ICSharpCode.AvalonEdit.dll
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.CopyComplete
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.g.cs
+C:\Users\user\source\repos\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.baml
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.g.cs
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.g.cs
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.cache
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.lref
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.exe
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.pdb
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe.config
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.pdb
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\ICSharpCode.AvalonEdit.xml
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.baml
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.baml
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.g.resources
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.Properties.Resources.resources
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.Fody.CopyLocal.cache
+C:\Users\user\Desktop\Anti-Virus Guard\Roblox Exploit Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.CopyComplete
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe.config
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.exe
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\SpiderReborn_WPF.pdb
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\bin\Debug\ICSharpCode.AvalonEdit.xml
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csprojAssemblyReference.cache
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.g.cs
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.g.cs
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\App.g.cs
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.cache
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF_MarkupCompile.lref
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\App.baml
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\Executor.baml
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\ScriptHub.baml
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.g.resources
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.Properties.Resources.resources
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.GenerateResource.cache
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.Fody.CopyLocal.cache
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.csproj.CopyComplete
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.exe
+E:\Sources\SpiderReborn_WPF\SpiderReborn_WPF\obj\Debug\SpiderReborn_WPF.pdb
